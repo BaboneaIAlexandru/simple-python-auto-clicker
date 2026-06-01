@@ -3,7 +3,8 @@
 I built this script because my fingers got extremely tired while playing a clicker game on Roblox.
 
 ## How to use:
-Press **`F4`** to start/stop
+Press **`F4`** to start/stop.
+Press **`ESC`** to stop the script.
 
 ## How to run:
 1. Install dependencies:
