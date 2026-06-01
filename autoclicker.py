@@ -9,11 +9,14 @@ mouseButton=Button.left
 delay=1
 clickerActive=False
 start_stop_key=Key.f4
+exit_key=Key.esc
 
 def checkPressedKey(pressedKey):
     global clickerActive
     if pressedKey==start_stop_key:
         clickerActive=not clickerActive
+    elif pressedKey==exit_key:
+        return False
     
 def autoClicker():
     while True:
