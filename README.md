@@ -1,12 +1,22 @@
-# Simple Python Auto-Clicker
+# Simple AutoClicker
 
 I built this script because my fingers got extremely tired while playing a clicker game on Roblox.
 
-## How to use:
-Press **`F4`** to start/stop.  
-Press **`ESC`** to stop the script.
+## Features
 
-## How to run:
+- Simple and lightweight GUI
+- Adjustable click delay (0.001 – 3600 seconds)
+- Customizable start/stop hotkey
+- Selectable mouse button (Left / Right / Middle)
+- Global hotkey support
+- Low CPU usage
+
+## How to Run
+
+### Option 1: Download .EXE (Recommended)
+Go to the **Releases** section on the right side of this page and download the executable file.
+
+### Option 2: Run from Source
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
